@@ -1,0 +1,10 @@
+#Sat Nov 14 06:17:00 WIB 2026
+base.0=/home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorRemote/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorRemote/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorRemote/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

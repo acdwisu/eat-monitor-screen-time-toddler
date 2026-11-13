@@ -1,0 +1,398 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/8a911f093b352b79d5edca91694779fd/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/82bffe0866bc0ac00114d51e55ce1b50/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/05fa3e4395b9b83f80777d378b3eb189/transformed/camera-lifecycle-1.3.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7fc445b35d3aaa35ad4ad9047fa8caa6/transformed/camera-core-1.3.4/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5ce3ac51c8ba5ab80c26671507e42c29/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/57aa6a56a9db8825334905273d3e8202/transformed/activity-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/31dcd2adf80ba3d7bf7e1fd5c4b73875/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d6f3984e0a69927f20be922e78591cd8/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/651c933ba01065f14b8b2222a27abffb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/77d534a744eaa188f73b273427bd94f5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b7d7633f947b8a77f2ce01706022f3f9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5a71ba702164073c8d2bf8c63c09b066/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0b016980106da352b79fd5cf6e3f30ca/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/9bede3d47141984e3c434b53abad2709/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d14664f273d34948b568b90a8229ca79/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/69f734f1b99ef29c93c6739cf9bceafe/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d70453bfc6a626e33c1866f0bf15e007/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/9a3b54692c82eabf8086b164547ff9c5/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5f1e5f23a44a8203528e400eaf1774d1/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cd7703c38907a7c94e427ca0cc957260/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/dac2e69d179c14484538e3f0244b4f39/transformed/lifecycle-service-2.8.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/6f37fb2ee8f7d0371b3d6ea6e32689a1/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/165c0b7995efd712d1a46940c8bde8e2/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b7492f3a22e597f68143578019c00ee2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mediapipe:tasks-vision:0.10.14] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0c7d4f79150c41072d075511636b2ca6/transformed/tasks-vision-0.10.14/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/ac7dbc79641f865b95f05e2749559b56/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/ee5099275c0e49e8835b48ea45174e72/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/6ccef9bca779376b6d5a8ceab38df8cf/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cb8b1341f9d6eac41907d8e2074b180e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/831f96d7761d81232f404f8f2b7bd407/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/28442e2d359391f2a9c7947a9f99df0a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7f3052bd650fd7135367401d1025943d/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.mediapipe:tasks-core:0.10.14] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d7ba3502934f3cdc51b03c80965719f1/transformed/tasks-core-0.10.14/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/e2e4c7403ad55b188c2db998636cf234/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/960a19f9db129e9885a1f8fc1e8e4c08/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+	package
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.front
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:5:5-90
+	android:required
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:5:64-87
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:5:19-63
+uses-permission#android.permission.CAMERA
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:8:22-75
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:9:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:10:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_CAMERA
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:11:22-81
+uses-permission#android.permission.INTERNET
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:15:5-86
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:15:22-83
+application
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:17:5-38:19
+INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:17:5-38:19
+MERGED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7fc445b35d3aaa35ad4ad9047fa8caa6/transformed/camera-core-1.3.4/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7fc445b35d3aaa35ad4ad9047fa8caa6/transformed/camera-core-1.3.4/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cb8b1341f9d6eac41907d8e2074b180e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cb8b1341f9d6eac41907d8e2074b180e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/831f96d7761d81232f404f8f2b7bd407/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/831f96d7761d81232f404f8f2b7bd407/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:25:5-39:19
+	android:extractNativeLibs
+		INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:19:9-42
+	android:allowBackup
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:22:9-67
+	android:usesCleartextTraffic
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:21:9-44
+activity#com.example.eatmonitor.MainActivity
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:29:27-74
+service#com.example.eatmonitor.EatingMonitorService
+ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:33:9-37:54
+	android:enabled
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:36:13-37
+	android:foregroundServiceType
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml:34:13-49
+uses-sdk
+INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/8a911f093b352b79d5edca91694779fd/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/8a911f093b352b79d5edca91694779fd/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/82bffe0866bc0ac00114d51e55ce1b50/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/82bffe0866bc0ac00114d51e55ce1b50/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/05fa3e4395b9b83f80777d378b3eb189/transformed/camera-lifecycle-1.3.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/05fa3e4395b9b83f80777d378b3eb189/transformed/camera-lifecycle-1.3.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7fc445b35d3aaa35ad4ad9047fa8caa6/transformed/camera-core-1.3.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7fc445b35d3aaa35ad4ad9047fa8caa6/transformed/camera-core-1.3.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5ce3ac51c8ba5ab80c26671507e42c29/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5ce3ac51c8ba5ab80c26671507e42c29/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/57aa6a56a9db8825334905273d3e8202/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/57aa6a56a9db8825334905273d3e8202/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/31dcd2adf80ba3d7bf7e1fd5c4b73875/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/31dcd2adf80ba3d7bf7e1fd5c4b73875/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d6f3984e0a69927f20be922e78591cd8/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d6f3984e0a69927f20be922e78591cd8/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/651c933ba01065f14b8b2222a27abffb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/651c933ba01065f14b8b2222a27abffb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/77d534a744eaa188f73b273427bd94f5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/77d534a744eaa188f73b273427bd94f5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b7d7633f947b8a77f2ce01706022f3f9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b7d7633f947b8a77f2ce01706022f3f9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5a71ba702164073c8d2bf8c63c09b066/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5a71ba702164073c8d2bf8c63c09b066/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0b016980106da352b79fd5cf6e3f30ca/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0b016980106da352b79fd5cf6e3f30ca/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/9bede3d47141984e3c434b53abad2709/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/9bede3d47141984e3c434b53abad2709/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d14664f273d34948b568b90a8229ca79/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d14664f273d34948b568b90a8229ca79/transformed/lifecycle-livedata-core-ktx-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/69f734f1b99ef29c93c6739cf9bceafe/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/69f734f1b99ef29c93c6739cf9bceafe/transformed/lifecycle-viewmodel-2.8.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d70453bfc6a626e33c1866f0bf15e007/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d70453bfc6a626e33c1866f0bf15e007/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/9a3b54692c82eabf8086b164547ff9c5/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/9a3b54692c82eabf8086b164547ff9c5/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5f1e5f23a44a8203528e400eaf1774d1/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5f1e5f23a44a8203528e400eaf1774d1/transformed/lifecycle-livedata-core-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cd7703c38907a7c94e427ca0cc957260/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cd7703c38907a7c94e427ca0cc957260/transformed/lifecycle-livedata-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/dac2e69d179c14484538e3f0244b4f39/transformed/lifecycle-service-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/dac2e69d179c14484538e3f0244b4f39/transformed/lifecycle-service-2.8.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/6f37fb2ee8f7d0371b3d6ea6e32689a1/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/6f37fb2ee8f7d0371b3d6ea6e32689a1/transformed/lifecycle-viewmodel-savedstate-2.8.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/165c0b7995efd712d1a46940c8bde8e2/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/165c0b7995efd712d1a46940c8bde8e2/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b7492f3a22e597f68143578019c00ee2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b7492f3a22e597f68143578019c00ee2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mediapipe:tasks-vision:0.10.14] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0c7d4f79150c41072d075511636b2ca6/transformed/tasks-vision-0.10.14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:tasks-vision:0.10.14] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0c7d4f79150c41072d075511636b2ca6/transformed/tasks-vision-0.10.14/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/ac7dbc79641f865b95f05e2749559b56/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/ac7dbc79641f865b95f05e2749559b56/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/ee5099275c0e49e8835b48ea45174e72/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/ee5099275c0e49e8835b48ea45174e72/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/6ccef9bca779376b6d5a8ceab38df8cf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/6ccef9bca779376b6d5a8ceab38df8cf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cb8b1341f9d6eac41907d8e2074b180e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/cb8b1341f9d6eac41907d8e2074b180e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/831f96d7761d81232f404f8f2b7bd407/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/831f96d7761d81232f404f8f2b7bd407/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/28442e2d359391f2a9c7947a9f99df0a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/28442e2d359391f2a9c7947a9f99df0a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7f3052bd650fd7135367401d1025943d/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7f3052bd650fd7135367401d1025943d/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.mediapipe:tasks-core:0.10.14] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d7ba3502934f3cdc51b03c80965719f1/transformed/tasks-core-0.10.14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mediapipe:tasks-core:0.10.14] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/d7ba3502934f3cdc51b03c80965719f1/transformed/tasks-core-0.10.14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/e2e4c7403ad55b188c2db998636cf234/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/e2e4c7403ad55b188c2db998636cf234/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/960a19f9db129e9885a1f8fc1e8e4c08/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/960a19f9db129e9885a1f8fc1e8e4c08/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+	android:targetSdkVersion
+		INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/acdwisu/Labs/codelab/EatMonitorSuite-v3/EatMonitorSuite/EatMonitorChild/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7fc445b35d3aaa35ad4ad9047fa8caa6/transformed/camera-core-1.3.4/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/7fc445b35d3aaa35ad4ad9047fa8caa6/transformed/camera-core-1.3.4/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/5d1ec9c4fc5c5f3a436b7a8341e4e8bb/transformed/camera-camera2-1.3.4/AndroidManifest.xml:31:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/831f96d7761d81232f404f8f2b7bd407/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/831f96d7761d81232f404f8f2b7bd407/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b89aec807e4f69c028706bfcfc15d107/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.eatmonitor.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.eatmonitor.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/0048d322e55e0ef457c0594ce1983d92/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/4ebc9498b3db13537e98a54050eb6e23/transformed/lifecycle-process-2.8.4/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/83acd9fe6ea0bb6da91a2b11e380bba5/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b6fcf8a17472fad9bc31416471cd701a/transformed/transport-backend-cct-3.1.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.0] /home/acdwisu/.gradle/caches/9.0-milestone-1/transforms/b1a9ad420fbcce912aa908eea632f0c2/transformed/transport-runtime-3.1.0/AndroidManifest.xml:33:13-132

@@ -1,0 +1,4 @@
+Unduh file face_landmarker.task dari:
+https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task
+
+Lalu simpan di folder ini dengan nama persis: face_landmarker.task
